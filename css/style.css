@@ -31,11 +31,58 @@ body{
 
 .bottone{
     border: 1px solid lightgrey;
+    padding: 7px 10px;
+    border-radius: 5px;
 }
 
 .container{
     width: 1000px;
     background-color: white;
     margin: 50px auto;
+}
+
+.azzurro{
+    background-color: #4ea8f5;
+    color: white;
+}
+
+.grigio{
+    background-color: white;
+    color: lightgrey;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.angoli{
+    border: 1px solid lightgrey;
+    padding: 7px 10px;
+    border-radius: 15px;
+}
+
+.viola{
+    background-color: rgb(114, 36, 114);
+    color: white;
+}
+
+.verde{
+    background-color: rgb(38, 125, 38);
+    color: white;
+}
+
+.arancione{
+    background-color: orange;
+    color: white;
+}
+
+.rosa{
+    background-color: pink;
+    color: white;
+}
+
+.verdino{
+    background-color: rgb(80, 185, 80);
+    color: white;
 }
 
