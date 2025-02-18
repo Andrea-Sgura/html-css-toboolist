@@ -21,3 +21,21 @@ header{
     vertical-align: middle;
 }
 
+body{
+    background-color: lightgrey;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.bottone{
+    border: 1px solid lightgrey;
+}
+
+.container{
+    width: 1000px;
+    background-color: white;
+    margin: 50px auto;
+}
+
