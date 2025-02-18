@@ -86,3 +86,17 @@ ul{
     color: white;
 }
 
+.bottoncino{
+    border: 1px solid green;
+    padding: 7px 10px;
+    border-radius: 50%;
+    color: green;
+}
+
+.cross{
+    border: 1px solid red;
+    padding: 7px 10px;
+    border-radius: 50%;
+    color: red;
+}
+
