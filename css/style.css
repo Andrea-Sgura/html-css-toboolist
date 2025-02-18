@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-color: white;
+}
+
+.imagelogo{
+    width: 90px;
+}
+
+.logo{
+    display: inline-block;
+    font-size: 50px;
+}
+
+.v-align-middle{
+    vertical-align: middle;
+}
+
