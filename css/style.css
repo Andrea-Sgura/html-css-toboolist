@@ -39,6 +39,10 @@ body{
     width: 1000px;
     background-color: white;
     margin: 50px auto;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 250px;
+    padding-left: 50px;
 }
 
 .azzurro{
@@ -98,5 +102,9 @@ ul{
     padding: 7px 10px;
     border-radius: 50%;
     color: red;
+}
+
+h2{
+    padding: 20px;
 }
 
